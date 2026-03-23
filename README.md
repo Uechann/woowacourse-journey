@@ -41,7 +41,7 @@
 
 | 주차                | 블로그 정리                                                                      |
 | ------------------ | ----------------------------------------------------------------------------- |
-| 0주차       | [객체지향의 사실과 오해 ](https://velog.io/@uechann/%EC%9A%B0%ED%85%8C%EC%BD%94-%EC%8A%A4%ED%84%B0%EB%94%94-%EA%B0%9D%EC%82%AC%EC%98%A4%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-1%EC%A3%BC%EC%B0%A8)     |
+| 0주차       | [객체지향의 사실과 오해 ](https://velog.io/@uechann/%EC%9A%B0%ED%85%8C%EC%BD%94-%EC%8A%A4%ED%84%B0%EB%94%94-%EA%B0%9D%EC%82%AC%EC%98%A4%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-0%EC%A3%BC%EC%B0%A8)     |
 | 1주차        | [오브젝트-1,2,3장](https://velog.io/@uechann/%EC%9A%B0%ED%85%8C%EC%BD%94-%EC%8A%A4%ED%84%B0%EB%94%94-%EA%B0%9D%EC%82%AC%EC%98%A4%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-1%EC%A3%BC%EC%B0%A8)              |
 | 2주차        | [오브젝트-4,5장]()           |
 | 3주차        | [미정]()     |

@@ -15,32 +15,49 @@
 | 우테코 프리코스(오픈 미션)   | [레포 링크](https://github.com/Uechann/stock-trading)                                              | [프리코스 오픈미션](https://velog.io/@uechann/Stock-Trading) | 
 | 행성 로또 (최종 코딩테스트)        | [PR-101](https://github.com/woowacourse-precourse/java-planetlotto-8/pull/101) | [프리코스 최종 코테]() |
 
-## 🌱 레벨1 - AI, TDD
+## 1️⃣ 레벨1
 
 > 2026.02.24 ~ ing
 
-### 레벨 목표
+### 레벨 과정
 
-- AI 도구를 활용해 빠르게 프로덕트를 만들어보고, 동작하는 무언가를 세상에 내놓는 경험을 한다.
-- 작은 규모의 어플리케이션들을 만들어보면서 JavaScript/TypeScript 언어의 주요 문법들을 깊이 있게 학습한다.
-- 유지보수하기 좋은 코드의 필요성을 경험하고, 어떻게 하면 유지보수하기 좋은 코드를 작성할 수 있을지 고민하고 적용해본다.
-- E2E 테스트와 단위 테스트 코드를 작성해보고, 이를 기반으로 리팩터링하며 테스트 코드의 필요성을 경험해본다.
-- 주어진 디자인을 웹 표준을 준수하는 UI로 구현해보고, 프론트엔드 개발자로서 고려해야 할 UX에 대해 고민해본다.
+- Gemini Canvas 웹앱 만들기
+- 블랙잭
+- 선택 미션 (개인 학습)
+- 장기 (OOP,영속화)
 
 ### 미션 기록
 
-| 미션                | PR & Reviews                                                     |
+| 미션                | PR & Reviews OR 블로그                                                   |
 | ------------------ | ---------------------------------------------------------------- |
-| 온보딩 - Gemini Canvas로 웹앱 만들기        | [PR-119](https://github.com/woowacourse/gemini-canvas-mission/pull/119)     |
-| 로또 Step 1        | [PR-443](https://github.com/woowacourse/javascript-lotto/pull/443)     |
-| 로또 Step 2        | [PR-461](https://github.com/woowacourse/javascript-lotto/pull/461)     |
+| 온보딩 - Gemini Canvas로 웹앱 만들기        | [PR-75](https://github.com/woowacourse/gemini-canvas-mission/pull/75)     |
+| 블랙잭 - 싸이클1        | [PR-996](https://github.com/woowacourse/java-blackjack/pull/966)     |
+| 블랙잭 - 싸이클2        | [PR-1056](https://github.com/woowacourse/java-blackjack/pull/1056)     |
+| 선택 미션        | [블로그 링크]()     |
+| 장기 - 싸이클1        | [미정]()     |
+| 장기 - 싸이클2        | [미정]()     |
 
-### 원정대 활동
--  TDD 원정대
+### 스터디 활동
+-  객체지향의 오해와 사실
+
+### 마을 활동
+| 활동명 | 링크                                                   |
+| ------------------ | ---------------------------------------------------------------- |
+| 마니또 미션1        | [미션1 링크](https://gemini.google.com/share/ba81e5082cb9)     |
+| 마니또 미션2        | [미션2-링크](https://gemini.google.com/share/ba81e5082cb9)     |
+| 마니또 미션3        | [미션3-링크](https://gemini.google.com/share/5e7b07b830d9)     |
+| 마니또 최종 발표        | [최종 발표](https://gemini.google.com/share/63b9cd767256)     |
+
+### 기타 활동
+- 굿즈 제작
+
+### 테코톡 (진행 예정)
+
 
 ## 🖋 블로그
 
-| 순번 | 포스트                                                                                                                                                                                                         |
+| 순번 | 포스트 |
 | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-| 1    | [우테코 8기 최종합격 후기](https://velog.io/@jhje5595/%EC%9A%B0%ED%85%8C%EC%BD%94-8%EA%B8%B0-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%B5%9C%EC%A2%85%ED%95%A9%EA%B2%A9)   
-| 2    | [TDD 원정대 후기](https://velog.io/@jhje5595/TDD-%EC%9B%90%EC%A0%95%EB%8C%80-%ED%9B%84%EA%B8%B0)  
+| 1    | [우테코 8기 최종합격 후기]()   
+| 2    | [블랙잭 후기]()  
+| 3    | []()  

@@ -31,11 +31,11 @@
 | 미션                | PR & Reviews OR 블로그                                                   |
 | ------------------ | ---------------------------------------------------------------- |
 | 온보딩 - Gemini Canvas로 웹앱 만들기        | [PR-75](https://github.com/woowacourse/gemini-canvas-mission/pull/75)     |
-| 블랙잭 - 싸이클1        | [PR-996](https://github.com/woowacourse/java-blackjack/pull/966)     |
-| 블랙잭 - 싸이클2        | [PR-1056](https://github.com/woowacourse/java-blackjack/pull/1056)     |
+| 블랙잭 - 싸이클1        | [블랙잭 게임 실행](https://github.com/woowacourse/java-blackjack/pull/966)     |
+| 블랙잭 - 싸이클2        | [블랙잭 베팅](https://github.com/woowacourse/java-blackjack/pull/1056)     |
 | 선택 미션        | [블로그 링크]()     |
-| 장기 - 싸이클1        | [미정]()     |
-| 장기 - 싸이클2        | [미정]()     |
+| 장기 - 싸이클1        | [보드 초기화 + 기물 이동](https://github.com/woowacourse/java-janggi/pull/227)     |
+| 장기 - 싸이클2        | [기물 확장 + DB 적용](https://github.com/woowacourse/java-janggi/pull/297)     |
 
 ### 스터디 활동 (객체지향의 사실과 오해, 오브젝트)
 
@@ -44,7 +44,7 @@
 | 0주차       | [객체지향의 사실과 오해 ](https://velog.io/@uechann/%EC%9A%B0%ED%85%8C%EC%BD%94-%EC%8A%A4%ED%84%B0%EB%94%94-%EA%B0%9D%EC%82%AC%EC%98%A4%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-0%EC%A3%BC%EC%B0%A8)     |
 | 1주차        | [오브젝트-1,2,3장](https://velog.io/@uechann/%EC%9A%B0%ED%85%8C%EC%BD%94-%EC%8A%A4%ED%84%B0%EB%94%94-%EA%B0%9D%EC%82%AC%EC%98%A4%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-1%EC%A3%BC%EC%B0%A8)              |
 | 2주차        | [오브젝트-4,5장]()           |
-| 3주차        | [미정]()     |
+| 3주차        | [오브젝트-6,7장]()     |
 | 4주차        | [미정]()     |
 | 5주차        | [미정]()     |
 
